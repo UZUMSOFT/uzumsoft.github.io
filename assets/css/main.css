@@ -2994,7 +2994,7 @@ input, select, textarea {
 			}
 
 			.spotlight .content header.major {
-				margin: 0 0 2em 0;
+				margin: 0 0 0 0;
 			}
 
 		.spotlight .image {
@@ -3072,12 +3072,12 @@ input, select, textarea {
 /* Header */
 
 	#header {
-		padding: 5em 5em 1em 5em ;
+		padding: 1em 1em 1em 1em ;
 		text-align: center;
 	}
 
 		#header h1 {
-			margin: 0 0 0.25em 0;
+			margin: 0 0 0em 0;
 		}
 
 		#header p {
@@ -3086,7 +3086,7 @@ input, select, textarea {
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 1em 1em 1em 1em ;
 		}
 
 			#header.alt h1 {
